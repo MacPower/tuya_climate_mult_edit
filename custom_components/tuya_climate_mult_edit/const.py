@@ -27,7 +27,7 @@ from homeassistant.const import (
     UnitOfVolume,
 )
 
-DOMAIN = "tuya_climate_mult_edit"
+DOMAIN = "tuya_climate_mult_edit_intelligent_air"
 LOGGER = logging.getLogger(__package__)
 
 CONF_APP_TYPE = "tuya_app_type"
