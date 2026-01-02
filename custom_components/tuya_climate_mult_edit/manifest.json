@@ -1,6 +1,6 @@
 {
-  "domain": "tuya_climate_mult_edit",
-  "name": "Tuya Climate Multiplier Edit",
+  "domain": "tuya_climate_mult_edit_intelligent_air",
+  "name": "Tuya Climate Multiplier Intelligent Air",
   "codeowners": ["@Tuya", "@zlinoliver", "@frenck", "@AlessandroTischer"],
   "config_flow": true,
   "dependencies": ["ffmpeg"],
@@ -39,7 +39,7 @@
       "macaddress": "D81F12*"
     }
   ],
-  "documentation": "https://github.com/AlessandroTischer/tuya_climate_mult_edit/",
+  "documentation": "https://github.com/MacPower/tuya_climate_mult_edit/",
   "integration_type": "hub",
   "iot_class": "cloud_push",
   "loggers": ["tuya_iot"],
