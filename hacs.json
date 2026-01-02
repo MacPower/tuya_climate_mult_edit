@@ -1,5 +1,6 @@
 {
-  "name": "Tuya Climate Multiplier Edit",
-  "domains": ["tuya_climate_mult_edit"],
+  "name": "Tuya Climate Multiplier Intelligent Air",
+  "domains": ["tuya_climate_mult_intelligent_air"],
   "render_readme": true
 }
+
